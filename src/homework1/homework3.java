@@ -1,4 +1,4 @@
-package test;
+package homework1;
 
 public class homework3 {
 //256559秒為多少天、多少小時、多少分與多少秒

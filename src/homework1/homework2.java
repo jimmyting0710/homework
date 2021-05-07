@@ -1,4 +1,4 @@
-package test;
+package homework1;
 
 public class homework2 {
 //200顆蛋共是幾打幾顆
